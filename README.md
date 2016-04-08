@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Am Mercy a web developer.
